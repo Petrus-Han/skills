@@ -41,8 +41,8 @@ Then, to install a specific set of skills:
 4. Select `Install now`
 
 Alternatively, directly install either Plugin via:
-```
-/plugin install document-skills@anthropic-agent-skills
+```。
+
 /plugin install example-skills@anthropic-agent-skills
 ```
 
